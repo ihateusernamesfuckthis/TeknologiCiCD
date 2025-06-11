@@ -15,6 +15,6 @@ public class TeknologiCicdApplication {
 
 	@GetMapping("/")
 	public String hello(){
-		return "der er hul igennem - + 2";
+		return "Denne er allerede live";
 	}
 }
